@@ -74,15 +74,15 @@ function Get-File
 
 Write-Host @'
 *****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@HugoCraft__ message:
+Edited by me, join my Discord server! 
+dsc.gg/hugocraft_
 *****************
 '@
 
 Write-Host @'
 *****************
-Authors: @Nuzair46, @KUTlime
+Authors: @Nuzair46, @KUTlime, @HugoCraft__
 *****************
 '@
 
@@ -330,9 +330,9 @@ Write-Host 'Done.'
 
 Write-Host @'
 *****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@HugoCraft__ message:
+Edited by me, join my Discord server! 
+dsc.gg/hugocraft_
 *****************
 '@
 
